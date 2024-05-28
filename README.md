@@ -8,7 +8,8 @@ This project showcases my journey as a budding developer, highlighting my skills
 *   🌍  I'm based in Conway, AR
 *   ✉️  You can contact me at [alexandramtrawick@gmail.com](mailto:alexandramtrawick@gmail.com)
 *   🧠  I'm learning HTML and CSS
-*   🤝  I'm open to collaborating on projects### Skills 
+*   🤝  I'm open to collaborating on projects
+# Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
