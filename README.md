@@ -21,3 +21,12 @@ This project showcases my journey as a budding developer, highlighting my skills
 <a href="https://www.github.com/alexandramtrawick" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a><a href="https://www.linkedin.com/in/alexandra-trawick-314a76305/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a></p>
+
+### ShoppingList
+
+This program allows the user to create a shopping list, add and subtract items from the list, alter the number of each item, and clear the list. You must have both files in ShoppingList.zip downloaded for the program to run.
+
+### GreatestGame
+
+This program allows the user to compete with the computer in a guessing game. The computer will pick a number from 1 to 100, and the user must guess the number in 5 or fewer guesses to win.
+
