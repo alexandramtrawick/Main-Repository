@@ -26,7 +26,11 @@ This project showcases my journey as a budding developer, highlighting my skills
 
 This program allows the user to create a shopping list, add and subtract items from the list, alter the number of each item, and clear the list. You must have both files in ShoppingList.zip downloaded for the program to run.
 
-### GreatestGame
+### TheGreatestGame
 
 This program allows the user to compete with the computer in a guessing game. The computer will pick a number from 1 to 100, and the user must guess the number in 5 or fewer guesses to win.
+
+### GreenCoffee
+
+This program shows how much of a discount on coffee you can get based on how you traveled to the coffee shop.
 
