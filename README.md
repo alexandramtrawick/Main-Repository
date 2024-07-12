@@ -22,15 +22,22 @@ This project showcases my journey as a budding developer, highlighting my skills
 </picture>
 </a></p>
 
-### ShoppingList
-
-This program allows the user to create a shopping list, add and subtract items from the list, alter the number of each item, and clear the list. You must have both files in ShoppingList.zip downloaded for the program to run.
-
-### TheGreatestGame
+### TheGreatestGame.java
 
 This program allows the user to compete with the computer in a guessing game. The computer will pick a number from 1 to 100, and the user must guess the number in 5 or fewer guesses to win.
 
-### GreenCoffee
+### GreenCoffee.java
 
 This program shows how much of a discount on coffee you can get based on how you traveled to the coffee shop.
 
+### HighSpeedInternet.java
+
+This program shows the user how much of a discount they can get on their high speed internet subscription.
+
+### twoSum.java
+
+This program takes in an array of numbers and a target number. The output is the indices of the two numbers in the list that have a sum equal to the target number.
+
+### wordReverse.java
+
+This program accepts user input of a string and prints the string in reverse.
