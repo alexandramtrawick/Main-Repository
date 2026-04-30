@@ -29,9 +29,12 @@ public class HighSpeedInternet {
         Scanner scan = new Scanner(System.in);
         System.out.println("Input your state initials: ");
         String state = scan.next();
-        if (!(state.equalsIgnoreCase("IA") && !(state.equalsIgnoreCase("MO") && !(state.equals("AR"))))) {
-            System.out.println("Not a valid state.");
-            System.exit(0);
+
+        if (!(state.equalsIgnoreCase("IA")) 
+            && !(state.equalsIgnoreCase("MO")) 
+            && !(state.equals("AR"))) {
+                System.out.println("Not a valid state.");
+                System.exit(0);
         }
 
         Scanner scanTwo = new Scanner(System.in);
